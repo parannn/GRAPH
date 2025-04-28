@@ -3,7 +3,7 @@
 Pada tugas kali ini kami membuat 3 Kode Algoritma pembuatan graf yaitu:
 DFS (Depth-First Search),
 BFS (Breadth-First Search),
-Djikstra Algoritm.
+Djikstra Algorithm.
 
 Anggota Kelompok 8
 1. Aggra Kurnia Idhan (G1A024003)
